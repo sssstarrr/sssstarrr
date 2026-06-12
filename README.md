@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff8fb1,50:7c3aed,100:00d1ff&height=220&section=header&text=Hi%2C%20I%27m%20sssstarrr&fontSize=48&fontAlignY=34&desc=%E4%B8%89%E6%B0%B4%E7%95%AA%20%7C%20%E8%8F%9C%E8%8F%9C%E7%A0%94%E7%A9%B6%E5%83%A7%20%7C%20AI%20%26%20Cloudflare%20%E6%8A%98%E8%85%BE%E4%B8%AD&descSize=18&descAlignY=52&animation=twinkling&fontColor=ffffff" alt="header" />
+<h1>Hi, I'm sssstarrr</h1>
+
+<h3>三水番 | 菜菜研究僧 | AI & Cloudflare 折腾中</h3>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&size=24&duration=2600&pause=900&color=FF9ACD&center=true&vCenter=true&width=760&lines=%E4%BB%8E%E8%8F%9C%E8%8F%9C%E5%A4%A7%E5%AD%A6%E7%89%B2%E8%BF%9B%E5%8C%96%E6%88%90%E8%8F%9C%E8%8F%9C%E7%A0%94%E7%A9%B6%E5%83%A7;%E6%AD%A3%E5%9C%A8%E5%92%8C+SOTA+%E5%A4%8D%E7%8E%B0%2FCloudflare%2FAI+%E5%B7%A5%E5%85%B7%E6%96%97%E6%99%BA%E6%96%97%E5%8B%87;%E6%8A%8A%E8%84%91%E6%B4%9E%E9%83%A8%E7%BD%B2%E5%88%B0%E4%BA%91%E7%AB%AF%EF%BC%8C%E7%84%B6%E5%90%8E%E5%81%87%E8%A3%85%E4%B8%80%E5%88%87%E9%83%BD%E5%BE%88%E4%BC%98%E9%9B%85" alt="Typing SVG" />
@@ -110,6 +112,6 @@ side_quests:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d1ff,50:7c3aed,100:ff8fb1&height=120&section=footer" alt="footer" />
+<sub>愿你的 bug 都能被日志温柔捕获，愿我的 commit 不再需要第二天重写。</sub>
 
 </div>
