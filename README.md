@@ -76,6 +76,9 @@ side_quests:
 <a href="https://github.com/sssstarrr/panstar">
   <img height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=sssstarrr&repo=panstar&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff9acd&icon_color=7dd3fc&text_color=c9d1d9" />
 </a>
+<a href="https://github.com/sssstarrr/652-check-in">
+  <img height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=sssstarrr&repo=652-check-in&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff9acd&icon_color=7dd3fc&text_color=c9d1d9" />
+</a>
 
 </div>
 
@@ -83,6 +86,7 @@ side_quests:
 
 | Repo | 简介 |
 | --- | --- |
+| [`652-check-in`](https://github.com/sssstarrr/652-check-in) | SUSE OAA 652 打卡桌面版：PyQt5、多账号、定时打卡和 GitHub Actions |
 | [`cloud-mail`](https://github.com/sssstarrr/cloud-mail) | 基于 Cloudflare 的邮箱服务，给云端生活加一个收件箱 |
 | [`cloudflare-ai-web`](https://github.com/sssstarrr/cloudflare-ai-web) | 可一键部署的 Cloudflare AI 平台 |
 | [`CF-Workers-docker.io`](https://github.com/sssstarrr/CF-Workers-docker.io) | Cloudflare Workers Docker 镜像代理工具 |
