@@ -68,21 +68,32 @@ side_quests:
 
 ## 传送门
 
-<div align="center">
-
-<a href="https://github.com/sssstarrr/sota-re">
-  <img height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=sssstarrr&repo=sota-re&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff9acd&icon_color=7dd3fc&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/sssstarrr/panstar">
-  <img height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=sssstarrr&repo=panstar&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff9acd&icon_color=7dd3fc&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/sssstarrr/652-check-in">
-  <img height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=sssstarrr&repo=652-check-in&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff9acd&icon_color=7dd3fc&text_color=c9d1d9" />
-</a>
-
-</div>
-
-<br />
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/sssstarrr/652-check-in"><strong>652-check-in</strong></a><br />
+      SUSE OAA 652 打卡桌面版：PyQt5、多账号、定时打卡和 GitHub Actions。<br />
+      <sub>Python · PyQt5 · Windows · GitHub Actions</sub>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/sssstarrr/sota-re"><strong>sota-re</strong></a><br />
+      论文复现与 baseline 修炼现场，把 paper 里的想法尽量跑成代码。<br />
+      <sub>Python · paper-to-code · baseline</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/sssstarrr/panstar"><strong>panstar</strong></a><br />
+      个人站点与博客相关折腾，记录项目、想法和一些技术碎片。<br />
+      <sub>Blog · Web · Astro</sub>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/sssstarrr/cloud-mail"><strong>cloud-mail</strong></a><br />
+      基于 Cloudflare 的邮箱服务，给云端生活加一个收件箱。<br />
+      <sub>Cloudflare · Email · Serverless</sub>
+    </td>
+  </tr>
+</table>
 
 | Repo | 简介 |
 | --- | --- |
@@ -95,12 +106,18 @@ side_quests:
 
 ## 数据面板
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sssstarrr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff9acd&icon_color=7dd3fc&text_color=c9d1d9&rank_icon=github" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sssstarrr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff9acd&text_color=c9d1d9" />
-
-</div>
+<table>
+  <tr>
+    <td width="50%">
+      <strong>主力技术栈</strong><br />
+      Python / JavaScript / Vue / Java / Cloudflare Workers
+    </td>
+    <td width="50%">
+      <strong>近期关键词</strong><br />
+      SOTA 复现、Serverless、AI 工具链、桌面小工具
+    </td>
+  </tr>
+</table>
 
 <div align="center">
 
